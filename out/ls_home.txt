@@ -1,0 +1,22 @@
+total 56
+drwxr-x---+ 21 macmilena  staff   672B  9 lis 14:06 .
+drwxr-xr-x   6 root       admin   192B 30 sie 02:48 ..
+-r--------   1 macmilena  staff     9B 20 maj 14:47 .CFUserTextEncoding
+drwx------   3 macmilena  staff    96B 15 lip 16:18 .cups
+-rw-r--r--@  1 macmilena  staff    10K  9 lis 13:29 .DS_Store
+-rw-r--r--   1 macmilena  staff    66B  9 lis 12:41 .gitconfig
+-rw-------   1 macmilena  staff    20B  9 lis 14:06 .lesshst
+drwx------+ 20 macmilena  staff   640B 18 paź 10:34 .Trash
+-rw-------   1 macmilena  staff   864B  9 lis 12:39 .zsh_history
+drwx------  36 macmilena  staff   1,1K  9 lis 12:39 .zsh_sessions
+drwx------@  4 macmilena  staff   128B  9 lis 13:26 Desktop
+drwx------@  4 macmilena  staff   128B 10 sie 22:32 Documents
+drwx------+ 16 macmilena  staff   512B  9 lis 13:29 Downloads
+drwxr-xr-x   6 macmilena  staff   192B  9 lis 13:29 informatyka
+drwxr-xr-x  10 macmilena  staff   320B  9 lis 14:08 kolokwium-prep
+drwx------@ 92 macmilena  staff   2,9K  3 lis 15:41 Library
+drwx------   4 macmilena  staff   128B 20 maj 16:15 Movies
+drwx------+  6 macmilena  staff   192B  8 sie 15:58 Music
+drwx------+  4 macmilena  staff   128B 20 maj 14:47 Pictures
+drwxr-xr-x+  4 macmilena  staff   128B 20 maj 14:46 Public
+drwxr-xr-x   3 macmilena  staff    96B  9 lis 12:33 work
